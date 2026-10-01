@@ -23,3 +23,12 @@ print(height)
 print("Here are some String Data type")
 name="Udoy"
 print(name)
+
+# Boolea variabele
+
+d=False
+e=True
+
+#None variable
+
+f=None
