@@ -13,3 +13,8 @@ cgpa=float(input("Enter your cgpa: "))
 print(cgpa)
 
 
+# Find type 
+
+j=56
+t=type(j) 
+print(t) # <class int>
